@@ -61,10 +61,9 @@ pip install -r requirements.txt
 markdown
 Copy
 Edit
-##
 
 
-▶️ Run Locally
+##▶️ Run Locally
 
 ```bash
 python app.py
