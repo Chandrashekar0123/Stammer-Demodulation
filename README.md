@@ -1,4 +1,5 @@
-# 🧠 Fluent Speech Correction Web App
+# ML-Powered Stammer Demodulation and Emotion Detection
+
 
 ## 🚩 Problem Statement
 
