@@ -13,6 +13,10 @@ There is a clear need for an **AI-powered speech processing system** that can:
 This app aims to bridge that gap and empower inclusive communication.
 
 ---
+##Dataset
+
+The UCLASS (Universal Corpus of Labeled Audio and Speech Samples) dataset is designed for research on speech disfluencies, particularly stammering. It contains audio recordings of individuals with stammering, along with time-aligned transcriptions and annotations of disfluencies like pauses, repetitions, and filler words. This dataset is crucial for developing models that detect stammered speech, improve speech-to-text systems for individuals with speech impairments, and enhance speech communication technologies. It is widely used to train machine learning models for stammer detection, correction, and emotion recognition in dysfluent speech.
+---
 
 ## 📌 Project Overview
 
