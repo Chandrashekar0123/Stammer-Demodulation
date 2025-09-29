@@ -94,3 +94,5 @@ Real stammer and emotion detection using deep learning
 Speaker diarization & multi-language support
 
 Feedback-based audio enhancement
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/917f41f9-619b-4b29-bb67-c1281f73c3da" />
