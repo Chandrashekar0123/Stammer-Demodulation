@@ -66,13 +66,16 @@ pip install -r requirements.txt
 markdown
 Copy
 Edit
-
+```
 
 ##▶️ Run Locally
 
 ```bash
 python app.py
+```
+
 🧑‍💻 Or Run on Google Colab
+
 Just paste the code in a Colab cell.
 pyngrok will generate a public URL to access the app.
 
@@ -91,6 +94,3 @@ Real stammer and emotion detection using deep learning
 Speaker diarization & multi-language support
 
 Feedback-based audio enhancement
-
-🧾 License
-This project is released under the MIT License — feel free to use, share, and build upon it.
