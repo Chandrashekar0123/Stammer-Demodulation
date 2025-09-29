@@ -1,5 +1,5 @@
 streamlit==1.30.0
-torch==2.1.0
+torch==2.8.0
 transformers==4.38.0
 librosa==0.10.1
 gTTS==2.5.4
