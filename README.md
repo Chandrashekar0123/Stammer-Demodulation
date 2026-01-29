@@ -78,7 +78,7 @@ cd fluent-speech-app
 pip install -r requirements.txt
 ```
 
-##▶️ Run Locally
+## ▶️ Run Locally
 
 ```bash
 python app.py
