@@ -54,6 +54,8 @@ It’s built for accessibility, aiming to support people with speech disfluencie
 - **MoviePy**: Extracts audio from video files if needed.
 - **Pyngrok**: For creating public URLs (especially for Google Colab users).
 
+---
+
 ### 📂 Flow:
 1. User uploads an audio or video file
 2. Audio is extracted (if video) and preprocessed
