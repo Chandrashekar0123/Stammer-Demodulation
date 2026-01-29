@@ -75,8 +75,8 @@ It’s built for accessibility, aiming to support people with speech disfluencie
 
 ### 🧪 Installation:
 ```bash
-git clone https://github.com/Chandrashekar0123/fluent-speech-app.git
-cd fluent-speech-app
+git clone https://github.com/Chandrashekar0123/Stammer-Demodulation.git
+cd Stammer-Demodulation
 pip install -r requirements.txt
 ```
 
