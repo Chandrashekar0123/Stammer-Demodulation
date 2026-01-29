@@ -1,7 +1,9 @@
 # ML-Powered Stammer Demodulation and Emotion Detection
 
+---
 
-## 🚩 Problem Statement
+
+##  Problem Statement
 
 **People who stammer face communication challenges because traditional speech recognition systems struggle to process disfluencies like stutters and long pauses.**  
 These systems often misinterpret or skip words, leading to inaccurate transcriptions and failed emotion detection — decreasing accessibility for individuals with speech impairments.
@@ -74,10 +76,6 @@ It’s built for accessibility, aiming to support people with speech disfluencie
 git clone https://github.com/Chandrashekar0123/fluent-speech-app.git
 cd fluent-speech-app
 pip install -r requirements.txt
-
-markdown
-Copy
-Edit
 ```
 
 ##▶️ Run Locally
@@ -95,11 +93,6 @@ Just paste the code in a Colab cell. (pyngrok will generate a public URL to acce
 - 🧠 Get emotion & stammer severity
 - 📃 Read transcription
 - 🔊 Listen & download fluent audio
-
-  ---
-  
-  ## 📈 Future Scope
-- Feedback-based audio enhancement
 
   ---
   
