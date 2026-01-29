@@ -14,7 +14,10 @@ This app aims to bridge that gap and empower inclusive communication.
 
 ---
 # Dataset
-The UCLASS (Universal Corpus of Labeled Audio and Speech Samples) dataset is designed for research on speech disfluencies, particularly stammering. It contains audio recordings of individuals with stammering, along with time-aligned transcriptions and annotations of disfluencies like pauses, repetitions, and filler words. This dataset is crucial for developing models that detect stammered speech, improve speech-to-text systems for individuals with speech impairments, and enhance speech communication technologies. It is widely used to train machine learning models for stammer detection, correction, and emotion recognition in dysfluent speech.
+
+Link : https://www.uclass.psychol.ucl.ac.uk/
+
+The UCLASS (University College London’s Archive of Stuttered Speech) dataset is designed for research on speech disfluencies, particularly stammering. It contains audio recordings of individuals with stammering, along with time-aligned transcriptions and annotations of disfluencies like pauses, repetitions, and filler words. This dataset is crucial for developing models that detect stammered speech, improve speech-to-text systems for individuals with speech impairments, and enhance speech communication technologies. It is widely used to train machine learning models for stammer detection, correction, and emotion recognition in dysfluent speech.
 
 ---
 ## 🎬 Demo Video
@@ -85,23 +88,20 @@ python app.py
 
 🧑‍💻 Or Run on Google Colab
 
-Just paste the code in a Colab cell.
-pyngrok will generate a public URL to access the app.
+Just paste the code in a Colab cell. (pyngrok will generate a public URL to access the app) then the Output process would be following : 
 
-📷 Features Demo (Sample UI)
-✅ Upload audio/video
+- 📷 Features Demo (Sample UI)
+- ✅ Upload audio/video
+- 🧠 Get emotion & stammer severity
+- 📃 Read transcription
+- 🔊 Listen & download fluent audio
 
-🧠 Get emotion & stammer severity
+  ---
+  
+  ## 📈 Future Scope
+- Feedback-based audio enhancement
 
-📃 Read transcription
-
-🔊 Listen & download fluent audio
-
-📈 Future Scope
-Real stammer and emotion detection using deep learning
-
-Speaker diarization & multi-language support
-
-Feedback-based audio enhancement
+  ---
+  
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/917f41f9-619b-4b29-bb67-c1281f73c3da" />
